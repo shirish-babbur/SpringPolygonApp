@@ -6,18 +6,24 @@ Here we used following features of Spring DI
 ```
 @SpringBootApplication
 ```
+```
 @Componant
+```
 ```
 @Autowired
 ```
+```
 @Lazy
+```
 ```
 @PostConstruct
 ```
+```
 @Configuration
+```
 ```
 @Bean
 ```
 ### Built With
-*Intellij idea
-*Maven
+* Intellij idea
+* Maven
